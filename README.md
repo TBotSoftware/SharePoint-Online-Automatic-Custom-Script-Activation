@@ -1,6 +1,6 @@
 ## ⚠️ Requirements
 
-To run this script, install PowerShell 7 with the SharePoint Online Module.
+To run this script, install PowerShell 7 with the PnP PowerShell Module.
 
 ## 📃 Preparations
 
